@@ -1,2 +1,2 @@
-# QUANTIUM_DATA_ANALYTICS-_VIRTUAL_EXPERIENCE_PROGRAM_R_STUDIO
+# QUANTIUM_DATA_ANALYTICS-_VIRTUAL_EXPERIENCE_R_STUDIO
 In this project Quantium have partnered with a large supermarket brand who have provided transactional and costomer data. As the analyst I am tasked with delivering highly valued data analytics and insights to help the business make strategic decisions.  In this project I utilised my knowledge in R Studio and Powerpoint to show key analytic skills such as:  Data Wrangling, Data Visualisation, Programming Skills, Statistics, Critical Thinking, and Commercial Thinking
