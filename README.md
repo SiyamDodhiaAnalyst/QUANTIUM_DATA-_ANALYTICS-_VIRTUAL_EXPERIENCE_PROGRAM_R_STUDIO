@@ -4,10 +4,10 @@ In this project Quantium have partnered with a large supermarket brand who have 
 There are **3 tasks** assigned to this project:
 - [Task 1: Data preparation and customer analytics](https://github.com/SiyamDodhiaAnalyst/Quantium-Data_Analytics_Virtual_Experience_RStudio/tree/main/Task%201)
   
-  In this task I conduct analysis on my client's transactional dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations. 
+  In this task I conduct analysis on my client's transactional dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations. I also perform high level data checks such as: 
    1. Creating and interpreting high level summaries of the data
-   2. Finding outliers and removing these (if applicable)
-   3. Checking data formats and correcting (if applicable)
+   2. Finding outliers and removing these 
+   3. Checking data formats and correcting 
 - [Task 2: Experimentation and uplift testing](https://github.com/SiyamDodhiaAnalyst/Quantium-Data_Analytics_Virtual_Experience_RStudio/tree/main/Task%202)
   
   Task description 
