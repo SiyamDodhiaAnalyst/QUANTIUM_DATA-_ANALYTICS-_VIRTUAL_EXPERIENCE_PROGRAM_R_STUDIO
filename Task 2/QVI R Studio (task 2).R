@@ -1,6 +1,6 @@
-setwd("~/Quantium Virtual Experience 2021")
+setwd()
 
-.libPaths("C:/Users/siyam/OneDrive/Documents/Other (FOLDERS)/R/win-library/3.6")
+.libPaths()
 
 remove.packages("data.table")
 install.packages("data.table")
