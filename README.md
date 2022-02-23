@@ -17,4 +17,4 @@ There are **3 tasks** assigned to this project:
 
   In this final task I am using all the analytics and insights from Task 1 and 2 to prepare a report the client. 
 
-The data used for this project can be found [here](https://github.com/SiyamDodhiaAnalyst/Quantium-Data_Analytics_Virtual_Experience_RStudio/tree/main/Data%20for%20Project)
+*The data used for this project can be found [here](https://github.com/SiyamDodhiaAnalyst/Quantium-Data_Analytics_Virtual_Experience_RStudio/tree/main/Data%20for%20Project)*
