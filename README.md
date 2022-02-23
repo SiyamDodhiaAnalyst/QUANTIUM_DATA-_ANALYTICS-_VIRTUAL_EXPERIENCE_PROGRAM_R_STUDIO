@@ -10,11 +10,11 @@ There are **3 tasks** assigned to this project:
    3. Checking data formats and correcting 
 - [Task 2: Experimentation and uplift testing](https://github.com/SiyamDodhiaAnalyst/Quantium-Data_Analytics_Virtual_Experience_RStudio/tree/main/Task%202)
   
-  In this task I extend my analysis from task 1 to help identify benchmark stores that allow me to test the impact of trial store layouts on customer sales. I am tasked with evaluating the performance of trial store 77 based on a calculated control store (in which I determined store 233 as the most suitable control store) based on 2 metrics:
+  In this task I extend my analysis from Task 1 to help identify benchmark stores that allow me to test the impact of trial store layouts on customer sales. I am tasked with evaluating the performance of trial store 77 based on a calculated control store (in which I determined store 233 as the most suitable control store) based on 2 metrics:
     1. total sales revenue
     2. total number of customers
 - [Task 3: Analytics and commercial application](https://github.com/SiyamDodhiaAnalyst/Quantium-Data_Analytics_Virtual_Experience_RStudio/blob/main/Task%203%20-%20Analytics%20and%20commercial%20application.pptx)
 
-  In this final task I am using all the analytics and insights from Task 1 and 2 
+  In this final task I am using all the analytics and insights from Task 1 and 2 to prepare a report the client. 
 
 The data used for this project can be found [here](https://github.com/SiyamDodhiaAnalyst/Quantium-Data_Analytics_Virtual_Experience_RStudio/tree/main/Data%20for%20Project)
